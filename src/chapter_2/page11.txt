@@ -2,4 +2,4 @@ hello
 
 this is my new chapter
 
-learning how to use git ang github
+edit on page 1 on chapter 11
